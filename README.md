@@ -1,5 +1,6 @@
 # Hi!
-**This is a cool way to introduce yourself to people, i got the idea from a dude on twitter and others who explained how he did it**
+**This is a cool way to introduce yourself to people, i got the idea from a dude on twitter and others who explained how he did it,**
+
 **I also used this link to do it**  <a href="https://dev.to/satvikchachra/how-to-add-an-awesome-readme-to-your-github-profile-361n">  ***Link*** </a>
 
 <img src="https://user-images.githubusercontent.com/38424188/87685783-d6241e80-c794-11ea-83cd-699964eb6e0e.png" width="350"/>
