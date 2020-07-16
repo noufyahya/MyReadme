@@ -1,4 +1,4 @@
-# Hi!
+# Hi👋🏻😃!
 **This is a cool way to introduce yourself to people, i got the idea from a dude on twitter and others who explained how he did it,**
 
 **I also used this link to do it**  <a href="https://dev.to/satvikchachra/how-to-add-an-awesome-readme-to-your-github-profile-361n">  ***Link*** </a>
