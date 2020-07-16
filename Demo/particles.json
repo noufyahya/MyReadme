@@ -1,0 +1,27 @@
+{
+    "particles": {
+        "number": {
+            "value": 70
+        },
+        "color": {
+            "value": "#fff"
+        },
+        "shape": {
+            "type": "star",
+            "stroke": {
+                "width": 0.1,
+                "color": "#000"
+            }
+        },
+        "opacity": {
+            "value": 0.9,
+            "anim": {
+                "enable": true,
+                "speed": 1
+            }
+        },
+        "size": {
+            "value": 2
+        }
+    }
+}
